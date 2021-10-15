@@ -4,8 +4,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mertaksu&layout=compact&langs_count=8)](https://github.com/mertaksu)
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mert-aksu-0b5a9362)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:mertaksu@outlook.com)
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mertaksu@outlook.com)
+[![Twitter](https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mertaksu)
 <!--
 **mertaksu/mertaksu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
