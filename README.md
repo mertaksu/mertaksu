@@ -6,6 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mert-aksu-0b5a9362)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mertaksu@outlook.com)
 [![Twitter](https://img.shields.io/badge/%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mertaksu)
+
 <!--
 **mertaksu/mertaksu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
