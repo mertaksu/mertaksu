@@ -22,7 +22,7 @@ Hi, I'm Mert Aksu from Turkey, currently, I'm working as a Software Engineer at 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=mertaksu&theme=dark&show_icons=true" width="500" height="250"/>
+<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=mertaksu&theme=dark&show_icons=true" width="400" height="250"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mertaksu&layout=compact&langs_count=8)](https://github.com/mertaksu)
 
