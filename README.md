@@ -1,16 +1,47 @@
-### Hi there 👋
+### Hi I'm Mert! 👋
+<p align="left">
+  <a href="https://github.com/mertaksu"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
+  <a href="https://www.linkedin.com/in/mert-aksu-0b5a9362/"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
+  <a href="https://twitter.com/mertaksu"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>
+</p>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mertaksu&count_private=true&show_icons=true)](https://github.com/mertaksu)
+Hi, I'm Mert Aksu from Turkey, currently, I'm working as a Software Engineer at 🙍🏽‍♂️ [YapiKredi Technology](https://www.ykteknoloji.com.tr/). I'm a creative problem solving enthusiast, with a constantly growing love for languages my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=mertaksu&theme=dark&show_icons=true" width="500" height="250"/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mertaksu&layout=compact&langs_count=8)](https://github.com/mertaksu)
 
-[![Linkedin](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mert-aksu-0b5a9362)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mertaksu@outlook.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mertaksu)
+**Talking about Personal Stuffs:**
 
-Hi, I'm Mert Aksu, a passionate self-taught full stack web developer and a freelance software engineer from Turkey. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+- 👨🏽‍💻 I’m currently working on improving my techskill;
+- 🌱 I’m currently hardening my frontend knowladge skills; 
+- 👯 I’m looking to collaborate on Github;
+- 💬 Ask me about anything, I am happy to help;
+- ⚡️ Fun-Fact: Anything is possible;
+- 📫 How to reach me: mertaksu@outlook.com;
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+<br />
+<br />
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/mertaksu/count.svg" />
+</p>
 <!--
 **mertaksu/mertaksu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
