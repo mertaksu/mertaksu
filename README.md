@@ -5,7 +5,7 @@
   <a href="https://twitter.com/mertaksu"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>
 </p>
 
-Hi, I'm Mert Aksu from Turkey, currently, I'm working as a Software Engineer at 🙍🏽‍♂️ [Worldline]([https://www.ykteknoloji.com.tr/](https://nl.worldline.com/nl/home.html). I'm a creative problem solving enthusiast, with a constantly growing love for languages my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build
+Hi, I'm Mert Aksu from Turkey, currently, I'm working as a Software Engineer at 🙍🏽‍♂️ [Worldline](https://nl.worldline.com/nl/home.html). I'm a creative problem solving enthusiast, with a constantly growing love for languages my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build
 
 **Languages and Tools:**  
 
